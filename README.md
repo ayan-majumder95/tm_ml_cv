@@ -1,1 +1,1 @@
-# tm_ml_cv
+# This repository contains the initial structures of the membrane bilayer and the scripts used to generate the potentials of mean force using well-tempered metadynamics for the paper "Machine Learning Derived Collective Variables for the Study of Protein Homodimerization in Membrane" by Ayan Majumder and John E. Straub
